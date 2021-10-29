@@ -9,7 +9,7 @@
 > 
 >받은 메세지를(Consumer) 식별해 해당 로직이 실행됩니다 
 >
-> [docker로 실행시키는 문서입니다](https://github.com/77kkyu/ehcache-springboot/blob/main/docs/docs.md)
+> [docker로 실행시키는 문서입니다](https://github.com/77kkyu/kafka-springboot/blob/main/docs/docs.md)
 
 <br>
 
